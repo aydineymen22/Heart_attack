@@ -52,11 +52,11 @@ pip install pandas matplotlib seaborn
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/aydineymen22/Heart_attack.git
+   git clone https://github.com/aydineymen22/heart_attack.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd Heart_attack
+   cd heart_attack
    ```
 3. Run the script:
    ```sh
