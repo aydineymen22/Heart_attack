@@ -52,15 +52,15 @@ pip install pandas matplotlib seaborn
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/aydineymen22/data-visualization-python.git
+   git clone https://github.com/aydineymen22/Heart_attack.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd data-visualization-python
+   cd Heart_attack
    ```
 3. Run the script:
    ```sh
-   python visualization_script.py
+   python heart_attack.py
    ```
 
 ## Contact
