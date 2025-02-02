@@ -1,7 +1,7 @@
 # Data Visualization with Python
 
 ## Project Overview
-This project is part of the Codecademy **Data Visualization with Python** course. It explores various techniques to visualize health-related data using **Pandas**, **Matplotlib**, and **Seaborn**. The dataset used is `updated_version.csv`, which contains numerical continuous and binary variables related to health indicators.
+This project is part of the Codecademy **Data Visualization with Python** course. It explores various techniques to visualize health-related data using **Pandas**, **Matplotlib**, and **Seaborn**. The dataset used is `updated_version.csv`, which contains numerical continuous and binary variables related to health indicators.I solely created plots since this project only wanted me to do so. 
 
 ## Dataset Description
 The dataset includes the following types of variables:
